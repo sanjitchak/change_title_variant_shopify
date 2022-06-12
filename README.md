@@ -1,1 +1,0 @@
-# change_title_variant_shopify
